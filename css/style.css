@@ -1,0 +1,22 @@
+.hero{
+    background-image: linear-gradient(-60deg, #3061E8 50% , #284DDA 20% , #1D42C5 30%);
+    height: 100vh;
+}
+.icon1{
+    background-color: rgba(242, 242, 245, 0.2);
+}
+.text{
+    padding-top: 170px;
+}
+.btn1{
+    padding: 10px 25px;
+}
+small{
+    letter-spacing: 2px;
+}
+.footer{
+    height: 20vh;
+    background-color: #031c76;
+    display: flex;
+    justify-content: center;
+}
